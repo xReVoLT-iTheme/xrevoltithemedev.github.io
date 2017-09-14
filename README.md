@@ -1,4 +1,5 @@
-# Website Status: !(online.png)
+# Website Status: 
+!(online.png)
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/leaf-browser-alpha/nefehiekhccmedmdoilmhikhdiiijkbe"><img src="docs/webstore.png" /></a>
